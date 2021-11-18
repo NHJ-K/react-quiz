@@ -1,0 +1,21 @@
+.room {
+  background-color: #7ed1d4;
+}
+
+.room .cactus {
+}
+
+.room .books {
+  top: 131px;
+  left: 248px;
+}
+
+.room .clock {
+}
+
+.room .picture {
+}
+
+.room .vase {
+  fill: #c69495;
+}
